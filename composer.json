@@ -1,0 +1,12 @@
+{
+    "name": "lxl/sms-notice",
+    "authors": [
+        {
+            "name": "mohuishou",
+            "email": "1@lailin.xyz"
+        }
+    ],
+    "require": {
+    	"php":">5.4"
+    }
+}
